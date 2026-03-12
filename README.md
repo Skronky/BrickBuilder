@@ -106,7 +106,7 @@ which was itself inspired by **ImportLDraw** by **Toby Lobster**
 
 ## Contributing
 
-Pull requests are welcome. See `DEVELOPER.docx` for package structure, design decisions, and contribution guidelines.
+Pull requests are welcome. See `DEVELOPER.md` for package structure, design decisions, and contribution guidelines.
 
 If you have a more complete `parts.lst`, submitting it as a PR is one of the easiest ways to improve LDraw search coverage for everyone.
 
