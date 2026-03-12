@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local cache directories created by BrickBuilder at runtime
+.brickbuilder/
+
+# Blender temp files
+*.blend1
+*.blend2
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# ImportOptions.json (user-specific, gets regenerated)
+inc/config/ImportOptions.json
