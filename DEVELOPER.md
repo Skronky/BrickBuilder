@@ -175,7 +175,7 @@ Bug reports and pull requests are welcome. The most impactful contributions are:
 - Updated `parts.lst` files with more complete LDraw coverage
 - New part IDs for EpicFigRig AutoRig recognition (in `BrickSuite/constants.py`)
 - Scale normalisation between LDraw and Mecabricks (`BRICK_SUITE_SCALE_LDRAW` vs `0.032`)
-- Lighting/material fixes for LDraw-imported parts under HDRI sky textures
+- Lighting/material fixes for LDraw-imported parts under ANY World Environment
 
 Before opening a PR please test your changes with the unit test suite and include a description of what part IDs or features you are adding.
 
